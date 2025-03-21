@@ -41,7 +41,7 @@ This project analyzes the Netflix movie dataset to categorize movies based on th
 - Analyze correlation between popularity and different movie features.
 
 ## 📧 Contact
-- **For questions or suggestions, reach out to me at `your-email@example.com`.**
+- **For questions or suggestions, reach out to me at `prasadgaikwad2607@gmail.com`.**
 
 
 ## Conclusion
