@@ -2,8 +2,6 @@
 <h1 align="center">🎥 Netflix Movies Data Analysis</h1>
 
 
-
-
 ## 📚 Project Overview
 This project analyzes the Netflix movie dataset to categorize movies based on their `vote_average` and explore various trends using visualizations.
 
@@ -43,7 +41,6 @@ This project analyzes the Netflix movie dataset to categorize movies based on th
 ## 📧 Contact
 - **For questions or suggestions, reach out to me at `prasadgaikwad2607@gmail.com`.**
 
-
 ## Conclusion
 
 ### Q1: What is the most frequent genre in the dataset?
@@ -61,6 +58,4 @@ This project analyzes the Netflix movie dataset to categorize movies based on th
 ### Q4: Which year has the most filmed movies?
 - Year **`2020`** has the highest filming rate in our dataset. more than `5000`
 
-
 ## ⭐️ If you found this project helpful, please consider giving it a star!
-
